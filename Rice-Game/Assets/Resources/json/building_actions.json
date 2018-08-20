@@ -1,0 +1,16 @@
+{
+    "ACTIONS": [		
+		{
+			"id": 1,
+			"description": "Sembrar"
+		},
+		{
+			"id": 2,
+			"description": "Enviar a moldre i netejar"
+		},
+		{
+			"id": 3,
+			"description": "Empaquetar i emmagatzemar"
+		}
+	]
+}

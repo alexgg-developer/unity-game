@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: tractoreja.png (512 x 512)
+# $TexturePacker:SmartUpdate:edba482531f27fe5d87f6bed99b751bf:bff03cee473a45aa0dbfbfa0cd5ca585:d5cac2692039dc024d73e03c885146f3$
+#
+
+reja1;2;386;123;124;1.1300813008130082;0.9314516129032258
+reja2;127;387;124;123;1.1209677419354838;0.9308943089430894
+reja3;253;385;124;125;1.1290322580645162;0.9319999999999999
+tractornude;2;100;255;283;0.45098039215686275;0.5

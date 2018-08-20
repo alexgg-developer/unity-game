@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: cargararroz.png (256 x 256)
+# $TexturePacker:SmartUpdate:c285841f04b9540730d5e64d5874174c:4b6598153b407016a3b1264c9353ea1f:574e966a4e2deda0831658aa7e1eb214$
+#
+
+01;2;161;67;93;0.582089552238806;0.4946236559139785
+02;71;161;67;93;0.582089552238806;0.4946236559139785
+03;140;164;67;90;0.582089552238806;0.47777777777777775
+04;2;67;67;92;0.582089552238806;0.48913043478260865

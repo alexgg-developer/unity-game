@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: manAbonar.png (256 x 256)
+# $TexturePacker:SmartUpdate:1af57a02e8f1f5f5750e3a9f88371106:46f80aa3688e2549cae1337055b742ab:22e5dd372262ba25d86f8c58f2e06a40$
+#
+
+01;2;161;71;93;0.5492957746478874;0.4946236559139785
+02;2;66;63;93;0.6190476190476191;0.4946236559139785
+03;75;164;82;90;0.47560975609756095;0.47777777777777775
+04;67;67;82;92;0.47560975609756095;0.48913043478260865

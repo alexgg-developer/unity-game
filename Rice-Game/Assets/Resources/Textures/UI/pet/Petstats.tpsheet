@@ -1,0 +1,13 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Petstats.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:d2287f28645b330c9b6754c0e12275e2:22d9c179fec3674a4b8ea40e1f34a902:fea28b6e77ab0fbcee52d9e4476fcda2$
+#
+
+happypajarito;2;528;378;494;0.5132275132275133;0.49797570850202433
+pajarito;2;32;378;494;0.5132275132275133;0.49797570850202433
+sadpajarito;382;528;378;494;0.5132275132275133;0.49797570850202433

@@ -1,0 +1,244 @@
+{
+    "OBJECTS": {
+		"OBJECT_1" :
+		{
+			"ID": 1,
+			"NAME": "OBJECT_1_TITLE",
+			"DESCRIPTION": "OBJECT_1_DESC",
+			"IMAGE":"Textures/objects/xaruga",
+			"COST": 170,
+			"INVESTIGATION_REQUIRED": [],
+			"IS_DURABLE": TRUE,
+			"NEED_GARAGE": FALSE,
+			"ORDER": 11
+		},
+		"OBJECT_2" :
+		{
+			"ID": 2,
+			"NAME": "OBJECT_2_TITLE",
+			"DESCRIPTION" : "OBJECT_2_DESC",
+			"IMAGE":"Textures/objects/caballo",
+			"COST": 420,
+			"INVESTIGATION_REQUIRED": [],
+			"IS_DURABLE": TRUE,
+			"NEED_GARAGE": FALSE,
+			"ORDER": 10		
+		},
+        "OBJECT_3" :
+		{
+			"ID": 3,
+			"NAME": "OBJECT_3_TITLE",
+			"DESCRIPTION" : "OBJECT_3_DESC",
+			"IMAGE":"Textures/objects/HERBICIDA1",
+			"COST": 1600,
+			"INVESTIGATION_REQUIRED": [14],
+			"IS_DURABLE": TRUE,
+			"NEED_GARAGE": FALSE,
+			"ORDER": 130
+		},
+        "OBJECT_4" :
+		{
+			"ID": 4,
+			"NAME": "OBJECT_4_TITLE",
+			"DESCRIPTION" : "OBJECT_4_DESC",
+			"IMAGE":"Textures/objects/hoz",
+			"COST": 86,
+			"INVESTIGATION_REQUIRED": [],
+			"IS_DURABLE": TRUE,
+			"NEED_GARAGE": FALSE,
+			"ORDER": 1
+		},
+        "OBJECT_6" :
+		{
+			"ID": 6,
+			"NAME": "OBJECT_6_TITLE",
+			"DESCRIPTION" : "OBJECT_6_DESC",
+			"IMAGE":"Textures/objects/tractorsembra",
+			"COST": 1600,
+			"INVESTIGATION_REQUIRED": [13],
+			"IS_DURABLE": TRUE,
+			"NEED_GARAGE": FALSE,
+			"ORDER": 120
+		},
+        "OBJECT_8" :
+		{
+			"ID": 8,
+			"NAME": "OBJECT_8_TITLE",
+			"DESCRIPTION" : "OBJECT_8_DESC",
+			"IMAGE":"Textures/objects/saco",
+			"COST": 7,
+			"INVESTIGATION_REQUIRED": [],
+			"IS_DURABLE": FALSE,
+			"NEED_GARAGE": FALSE,
+			"ORDER": 20
+		},
+        "OBJECT_9" :
+		{
+			"ID": 9,
+			"NAME": "OBJECT_9_TITLE",
+			"DESCRIPTION" : "OBJECT_9_DESC",
+			"IMAGE":"Textures/objects/barqueta",
+			"COST": 840,
+			"INVESTIGATION_REQUIRED": [4],
+			"IS_DURABLE": TRUE,
+			"NEED_GARAGE": FALSE,
+			"ORDER": 15
+		},
+        "OBJECT_10" :
+		{
+			"ID": 10,
+			"NAME": "OBJECT_10_TITLE",
+			"DESCRIPTION" : "OBJECT_10_DESC",	
+			"IMAGE":"Textures/objects/carro",
+			"COST": 500,
+			"INVESTIGATION_REQUIRED": [],
+			"IS_DURABLE": TRUE,
+			"NEED_GARAGE": FALSE,
+			"ORDER": 13
+		},
+        "OBJECT_11" :
+		{
+			"ID": 11,
+			"NAME": "OBJECT_11_TITLE",
+			"DESCRIPTION" : "OBJECT_11_DESC",
+			"IMAGE":"Textures/objects/segadora1",
+			"COST": 8000,
+			"INVESTIGATION_REQUIRED": [23],
+			"IS_DURABLE": TRUE,
+			"NEED_GARAGE": FALSE,
+			"ORDER": 300
+		},
+        "OBJECT_12" :
+		{
+			"ID": 12,
+			"NAME": "OBJECT_12_TITLE",
+			"DESCRIPTION" : "OBJECT_12_DESC",
+			"IMAGE":"Textures/objects/inorganico",
+			"COST": 40,
+			"INVESTIGATION_REQUIRED": [13],
+			"IS_DURABLE": FALSE,
+			"NEED_GARAGE": FALSE,
+			"ORDER": 121
+		},
+        "OBJECT_13" :
+		{
+			"ID": 13,
+			"NAME": "OBJECT_13_TITLE",
+			"DESCRIPTION" : "OBJECT_13_DESC",
+			"IMAGE":"Textures/objects/CARRY0",
+			"COST": 1500,
+			"INVESTIGATION_REQUIRED": [11],
+			"IS_DURABLE": TRUE,
+			"NEED_GARAGE": FALSE,
+			"ORDER": 114
+		},
+        "OBJECT_14" :
+		{
+			"ID": 14,
+			"NAME": "OBJECT_14_TITLE",
+			"DESCRIPTION" : "OBJECT_14_DESC",
+			"IMAGE":"Textures/objects/tabla",
+			"COST": 72,
+			"INVESTIGATION_REQUIRED": [],
+			"IS_DURABLE": TRUE,
+			"NEED_GARAGE": FALSE,
+			"ORDER": 12
+		},
+        "OBJECT_15" :
+		{
+			"ID": 15,
+			"NAME": "OBJECT_15_TITLE",
+			"DESCRIPTION" : "OBJECT_15_DESC",
+			"IMAGE":"Textures/objects/niveladora",
+			"COST": 1500,
+			"INVESTIGATION_REQUIRED": [11],
+			"IS_DURABLE": TRUE,
+			"NEED_GARAGE": FALSE,
+			"ORDER": 112
+		},
+        "OBJECT_16" :
+		{
+			"ID": 16,
+			"NAME": "OBJECT_16_TITLE",
+			"DESCRIPTION" : "OBJECT_16_DESC",
+			"IMAGE":"Textures/objects/anivelladoralaser",
+			"COST": 2000,
+			"INVESTIGATION_REQUIRED": [18],
+			"IS_DURABLE": TRUE,
+			"NEED_GARAGE": FALSE,
+			"ORDER": 113
+		},
+        "OBJECT_17" :
+		{
+			"ID": 17,
+			"NAME": "OBJECT_17_TITLE",
+			"DESCRIPTION" : "OBJECT_17_DESC",
+			"IMAGE":"Textures/objects/tractor",
+			"COST": 4000,
+			"INVESTIGATION_REQUIRED": [11],
+			"IS_DURABLE": TRUE,
+			"NEED_GARAGE": FALSE,
+			"ORDER": 100
+		},
+        "OBJECT_18" :
+		{
+			"ID": 18,
+			"NAME": "OBJECT_18_TITLE",
+			"DESCRIPTION" : "OBJECT_18_DESC",
+			"IMAGE":"Textures/objects/tractoairear",
+			"COST": 1500,
+			"INVESTIGATION_REQUIRED": [11],
+			"IS_DURABLE": TRUE,
+			"NEED_GARAGE": FALSE,
+			"ORDER": 111
+		},
+        "OBJECT_19" :
+		{
+			"ID": 19,
+			"NAME": "OBJECT_19_TITLE",
+			"DESCRIPTION" : "OBJECT_19_DESC",
+			"IMAGE":"Textures/objects/tractorsembra",
+			"COST": 2100,
+			"INVESTIGATION_REQUIRED": [15],
+			"IS_DURABLE": TRUE,
+			"NEED_GARAGE": FALSE,
+			"ORDER": 115
+		},
+        "OBJECT_20" :
+		{
+			"ID": 20,
+			"NAME": "OBJECT_20_TITLE",
+			"DESCRIPTION" : "OBJECT_20_DESC",
+			"IMAGE":"Textures/objects/organico",
+			"COST": 72,
+			"INVESTIGATION_REQUIRED": [19],
+			"IS_DURABLE": FALSE,
+			"NEED_GARAGE": FALSE,
+			"ORDER": 122
+		},
+        "OBJECT_21" :
+		{
+			"ID": 21,
+			"NAME": "OBJECT_21_TITLE",
+			"DESCRIPTION" : "OBJECT_21_DESC",
+			"IMAGE":"Textures/objects/herbicidagood",
+			"COST": 57,
+			"INVESTIGATION_REQUIRED": [10],
+			"IS_DURABLE": FALSE,
+			"NEED_GARAGE": FALSE,
+			"ORDER": 132
+		},
+        "OBJECT_22" :
+		{
+			"ID": 22,
+			"NAME": "OBJECT_22_TITLE",
+			"DESCRIPTION" : "OBJECT_22_DESC",
+			"IMAGE":"Textures/objects/herbicidabad",
+			"COST": 30,
+			"INVESTIGATION_REQUIRED": [14],
+			"IS_DURABLE": FALSE,
+			"NEED_GARAGE": FALSE,
+			"ORDER": 131
+		}
+    }
+}

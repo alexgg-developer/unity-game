@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: cargarbrotes.png (256 x 256)
+# $TexturePacker:SmartUpdate:3e977e48b7b63b34593e145c1b374a56:815ed6a3fe79c803e25b7cc2f0a6a69d:0c482e5025a3989a7035f8818c30055f$
+#
+
+01;2;161;65;93;0.6;0.4946236559139785
+02;2;66;65;93;0.6;0.4946236559139785
+03;136;164;65;90;0.6;0.47777777777777775
+04;69;162;65;92;0.6;0.48913043478260865

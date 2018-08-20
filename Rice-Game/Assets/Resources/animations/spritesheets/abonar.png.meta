@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: ea5bb189ec153db408e55f3e13d635f4
+timeCreated: 1457107760
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HABONAR1
+    21300002: HABONAR2
+    21300004: HABONAR3
+    21300006: HABONAR4
+    21300008: HABONAR5
+    21300010: humanabonar
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: HABONAR1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 382
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.6736111, y: 0.53515625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 59.5}
+        - {x: -48.5, y: 32.5}
+        - {x: -48.5, y: -66.5}
+        - {x: -29.5, y: -68.5}
+        - {x: 21.5, y: -68.5}
+        - {x: 23.5, y: -34.5}
+        - {x: 23.5, y: 59.5}
+      - - {x: 9.5, y: -19.5}
+        - {x: 10.5, y: -22.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 15.5, y: -20.5}
+        - {x: 14.5, y: -17.5}
+        - {x: 11.5, y: -17.5}
+    - name: HABONAR2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 386
+        width: 69
+        height: 124
+      alignment: 9
+      pivot: {x: 0.64492756, y: 0.53629035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 57.5}
+        - {x: -6.5, y: 57.5}
+        - {x: -8.5, y: 56.5}
+        - {x: -23.5, y: 46.5}
+        - {x: -44.5, y: 23.5}
+        - {x: -44.5, y: -63.5}
+        - {x: -39.5, y: -66.5}
+        - {x: -11.5, y: -66.5}
+        - {x: 22.5, y: 0.5}
+        - {x: 24.5, y: 13.5}
+        - {x: 24.5, y: 53.5}
+      - - {x: 12.5, y: -22.5}
+        - {x: 15.5, y: -21.5}
+        - {x: 15.5, y: -18.5}
+        - {x: 12.5, y: -17.5}
+        - {x: 10.5, y: -19.5}
+    - name: HABONAR3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 384
+        width: 69
+        height: 126
+      alignment: 9
+      pivot: {x: 0.64492756, y: 0.5436508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 57.5}
+        - {x: -44.5, y: 19.5}
+        - {x: -44.5, y: -51.5}
+        - {x: -36.5, y: -68.5}
+        - {x: 15.5, y: -68.5}
+        - {x: 24.5, y: -15.5}
+        - {x: 24.5, y: 57.5}
+      - - {x: 2.5, y: -56.5}
+        - {x: 5.5, y: -55.5}
+        - {x: 5.5, y: -52.5}
+        - {x: 2.5, y: -51.5}
+        - {x: 0.5, y: -53.5}
+      - - {x: 4.5, y: -31.5}
+        - {x: 3.5, y: -33.5}
+        - {x: 3.5, y: -35.5}
+        - {x: 5.5, y: -37.5}
+        - {x: 9.5, y: -37.5}
+        - {x: 10.5, y: -36.5}
+        - {x: 10.5, y: -31.5}
+    - name: HABONAR4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 254
+        width: 72
+        height: 126
+      alignment: 9
+      pivot: {x: 0.6041667, y: 0.5436508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 57.5}
+        - {x: -43.5, y: 25.5}
+        - {x: -43.5, y: -36.5}
+        - {x: -29.5, y: -68.5}
+        - {x: 0.5, y: -68.5}
+        - {x: 23.5, y: -44.5}
+        - {x: 28.5, y: -12.5}
+        - {x: 28.5, y: 57.5}
+    - name: HABONAR5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 253
+        width: 92
+        height: 127
+      alignment: 9
+      pivot: {x: 0.4728261, y: 0.53937006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: 58.5}
+        - {x: -43.5, y: -68.5}
+        - {x: -28.5, y: -65.5}
+        - {x: -17.5, y: -63.5}
+        - {x: -0.5, y: -68.5}
+        - {x: 48.5, y: -68.5}
+        - {x: 48.5, y: 58.5}
+      - - {x: 15.5, y: -12.5}
+        - {x: 18.5, y: -16.5}
+        - {x: 21.5, y: -15.5}
+        - {x: 21.5, y: -9.5}
+        - {x: 20.5, y: -7.5}
+        - {x: 17.5, y: -7.5}
+        - {x: 15.5, y: -8.5}
+    - name: humanabonar
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 122
+        width: 92
+        height: 129
+      alignment: 9
+      pivot: {x: 0.4456522, y: 0.4883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 66}
+        - {x: -41, y: 34}
+        - {x: -41, y: -49}
+        - {x: -38, y: -63}
+        - {x: 28, y: -63}
+        - {x: 30, y: -52}
+        - {x: 51, y: -30}
+        - {x: 51, y: 66}
+      - - {x: 18, y: -2}
+        - {x: 18, y: -9}
+        - {x: 21, y: -12}
+        - {x: 22, y: -12}
+        - {x: 25, y: -9}
+        - {x: 24, y: -4}
+        - {x: 21, y: -1}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

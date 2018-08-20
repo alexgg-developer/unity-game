@@ -1,0 +1,26 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: walkHuman.png (512 x 1024)
+# $TexturePacker:SmartUpdate:e86dc12c200600b0cc64bcd93a7aa3e2:1551f1f024beaf1cc4f06f9ca95b0738:ef273de70192bcc6df8a6e64c0374fd2$
+#
+
+walk0001;2;851;160;171;0.5;0.5
+walk0016;2;851;160;171;0.5;0.5
+walk0002;164;851;160;171;0.5;0.5
+walk0003;326;851;160;171;0.5;0.5
+walk0004;2;678;160;171;0.5;0.5
+walk0005;164;678;160;171;0.5;0.5
+walk0006;326;678;160;171;0.5;0.5
+walk0007;2;505;160;171;0.5;0.5
+walk0008;164;505;160;171;0.5;0.5
+walk0009;326;505;160;171;0.5;0.5
+walk0010;2;332;160;171;0.5;0.5
+walk0011;164;332;160;171;0.5;0.5
+walk0012;326;332;160;171;0.5;0.5
+walk0013;2;159;160;171;0.5;0.5
+walk0014;164;159;160;171;0.5;0.5
+walk0015;326;159;160;171;0.5;0.5

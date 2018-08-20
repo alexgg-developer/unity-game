@@ -1,0 +1,37 @@
+{
+    "PLAGUES": {
+		"PLAGUES_0" :
+		{
+			"ID": 0,
+			"NAME": "PLAGUES_0_TITLE",
+			"DESCRIPTION": "PLAGUES_0_DESC",
+			"IMAGE":"Textures/plagues/cargol_poma",
+			"YEAR_IN":1860,
+			"MONTH_IN": 8,
+			"MONTH_OUT": 9,
+			"BASE_DMG": 4
+		},
+		"PLAGUES_1" :
+		{
+			"ID": 1,
+			"NAME": "PLAGUES_1_TITLE",
+			"DESCRIPTION": "PLAGUES_1_DESC",
+			"IMAGE":"Textures/plagues/flamenc",
+			"YEAR_IN":1860,
+			"MONTH_IN": 6,
+			"MONTH_OUT": 7,
+			"BASE_DMG": 15
+		},
+		"PLAGUES_2" :
+		{
+			"ID": 2,
+			"NAME": "PLAGUES_3_TITLE",
+			"DESCRIPTION": "PLAGUES_3_DESC",
+			"IMAGE":"Textures/plagues/quironomids",
+			"YEAR_IN":1860,
+			"MONTH_IN": 6,
+			"MONTH_OUT": 7,
+			"BASE_DMG": 3
+		}
+    }
+}

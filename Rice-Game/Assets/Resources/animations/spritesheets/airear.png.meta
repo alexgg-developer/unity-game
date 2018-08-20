@@ -1,0 +1,558 @@
+fileFormatVersion: 2
+guid: 073ec43a844e4d7408b0bea43d2a130f
+timeCreated: 1454258835
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HAIREAR1
+    21300002: HAIREAR2
+    21300004: HAIREAR3
+    21300006: HAIREAR4
+    21300008: HAIREAR5
+    21300010: hoairear1
+    21300012: hoairear2
+    21300014: hoairear3
+    21300016: hoairear4
+    21300018: hoairear5
+    21300020: hoairear6
+    21300022: horwalk1
+    21300024: horwalk2
+    21300026: horwalk3
+    21300028: horwalk4
+    21300030: horwalk5
+    21300032: horwalk6
+    21300034: HWALKING3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: HAIREAR1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 891
+        width: 72
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5138889, y: 0.49618322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 66}
+        - {x: -29, y: 30}
+        - {x: -37, y: 4}
+        - {x: -37, y: -63}
+        - {x: -31, y: -65}
+        - {x: 30, y: -65}
+        - {x: 31, y: -64}
+        - {x: 35, y: -24}
+        - {x: 35, y: 66}
+    - name: HAIREAR2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 888
+        width: 64
+        height: 134
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.52238804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -70}
+        - {x: -25, y: -70}
+        - {x: -25, y: -68}
+        - {x: -27, y: -66}
+        - {x: -28, y: -66}
+      - - {x: -14, y: 64}
+        - {x: -28, y: 43}
+        - {x: -28, y: -62}
+        - {x: -5, y: -62}
+        - {x: 0, y: -60}
+        - {x: 24, y: -40}
+        - {x: 36, y: -7}
+        - {x: 36, y: 64}
+    - name: HAIREAR3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 892
+        width: 63
+        height: 130
+      alignment: 9
+      pivot: {x: 0.41269842, y: 0.50769234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 64}
+        - {x: -14, y: 64}
+        - {x: -21, y: 62}
+        - {x: -26, y: 22}
+        - {x: -26, y: -62}
+        - {x: -18, y: -66}
+        - {x: 21, y: -66}
+        - {x: 37, y: -22}
+        - {x: 37, y: 59}
+      - - {x: 15, y: -27}
+        - {x: 15, y: -29}
+        - {x: 17, y: -31}
+        - {x: 19, y: -31}
+        - {x: 22, y: -28}
+        - {x: 21, y: -25}
+        - {x: 17, y: -25}
+    - name: HAIREAR4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 895
+        width: 55
+        height: 127
+      alignment: 9
+      pivot: {x: 0.3272727, y: 0.496063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 64}
+        - {x: -18, y: 62}
+        - {x: -18, y: -60}
+        - {x: -16, y: -63}
+        - {x: 16, y: -63}
+        - {x: 35, y: -38}
+        - {x: 37, y: -23}
+        - {x: 37, y: 64}
+    - name: HAIREAR5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 896
+        width: 62
+        height: 126
+      alignment: 9
+      pivot: {x: 0.4032258, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 64}
+        - {x: -2, y: 64}
+        - {x: -25, y: 39}
+        - {x: -25, y: -54}
+        - {x: -18, y: -62}
+        - {x: -16, y: -62}
+        - {x: -6, y: -57}
+        - {x: 11, y: -62}
+        - {x: 31, y: -62}
+        - {x: 36, y: -58}
+        - {x: 37, y: -55}
+        - {x: 37, y: 61}
+    - name: HWALKING3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 886
+        width: 64
+        height: 136
+      alignment: 9
+      pivot: {x: 0.4453125, y: 0.5110294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: 64.5}
+        - {x: 31.5, y: 66.5}
+        - {x: 1.5, y: 66.5}
+        - {x: -19.5, y: 56.5}
+        - {x: -28.5, y: -7.5}
+        - {x: -28.5, y: -62.5}
+        - {x: -4.5, y: -62.5}
+        - {x: -0.5, y: -60.5}
+        - {x: -1.5, y: -56.5}
+        - {x: 25.5, y: -17.5}
+        - {x: 35.5, y: 29.5}
+    - name: hoairear1
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 870
+        width: 265
+        height: 152
+      alignment: 9
+      pivot: {x: 0.50566036, y: 0.49342105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -28}
+        - {x: -40, y: -26}
+        - {x: -38, y: -27}
+        - {x: -35, y: -31}
+        - {x: -15, y: -45}
+        - {x: 54, y: -45}
+        - {x: 131, y: -18}
+        - {x: 131, y: 7}
+        - {x: -53, y: 67}
+        - {x: -134, y: 67}
+        - {x: -134, y: 24}
+        - {x: -80, y: -75}
+        - {x: -43, y: -75}
+        - {x: -24, y: -62}
+        - {x: -28, y: -50}
+        - {x: -33, y: -43}
+      - - {x: 22, y: 0}
+        - {x: 18, y: 0}
+        - {x: 13, y: -7}
+        - {x: 13, y: -9}
+        - {x: 15, y: -10}
+        - {x: 24, y: -9}
+        - {x: 27, y: -6}
+        - {x: 27, y: -3}
+        - {x: 25, y: -1}
+    - name: hoairear2
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 881
+        width: 263
+        height: 141
+      alignment: 9
+      pivot: {x: 0.50190115, y: 0.4893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: -32}
+        - {x: -38, y: -25}
+        - {x: -35, y: -28}
+        - {x: -17, y: -41}
+        - {x: 19, y: -41}
+        - {x: 127, y: -22}
+        - {x: 131, y: -17}
+        - {x: 131, y: 15}
+        - {x: -85, y: 72}
+        - {x: -127, y: 72}
+        - {x: -132, y: 64}
+        - {x: -132, y: 43}
+        - {x: -121, y: 36}
+        - {x: -84, y: -49}
+        - {x: -59, y: -69}
+        - {x: -33, y: -69}
+        - {x: -23, y: -60}
+        - {x: -25, y: -41}
+        - {x: -27, y: -37}
+      - - {x: 21, y: 3}
+        - {x: 18, y: -1}
+        - {x: 18, y: -5}
+        - {x: 20, y: -6}
+        - {x: 26, y: -6}
+        - {x: 27, y: -5}
+        - {x: 27, y: 0}
+        - {x: 26, y: 3}
+    - name: hoairear3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 718
+        width: 263
+        height: 150
+      alignment: 9
+      pivot: {x: 0.49809885, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -22}
+        - {x: -40, y: -19}
+        - {x: -28, y: -31}
+        - {x: -5, y: -47}
+        - {x: 132, y: -16}
+        - {x: 132, y: 3}
+        - {x: 93, y: 25}
+        - {x: -56, y: 76}
+        - {x: -131, y: 76}
+        - {x: -131, y: 26}
+        - {x: -99, y: -56}
+        - {x: -61, y: -74}
+        - {x: -21, y: -74}
+        - {x: -17, y: -64}
+        - {x: -14, y: -45}
+        - {x: -36, y: -29}
+      - - {x: 19, y: 4}
+        - {x: 18, y: 0}
+        - {x: 18, y: -3}
+        - {x: 20, y: -4}
+        - {x: 27, y: -4}
+        - {x: 28, y: -1}
+        - {x: 28, y: 2}
+        - {x: 24, y: 4}
+    - name: hoairear4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 725
+        width: 265
+        height: 143
+      alignment: 9
+      pivot: {x: 0.50566036, y: 0.46853146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 116, y: 5}
+        - {x: -98, y: 67}
+        - {x: -134, y: 67}
+        - {x: -134, y: 21}
+        - {x: -87, y: -67}
+        - {x: -3, y: -67}
+        - {x: 127, y: -23}
+        - {x: 131, y: -14}
+        - {x: 131, y: 2}
+      - - {x: 17, y: 0}
+        - {x: 13, y: -6}
+        - {x: 13, y: -11}
+        - {x: 21, y: -11}
+        - {x: 27, y: -8}
+        - {x: 27, y: -4}
+        - {x: 25, y: 0}
+    - name: hoairear5
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 726
+        width: 262
+        height: 142
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.45774648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 13}
+        - {x: -99, y: 77}
+        - {x: -130, y: 77}
+        - {x: -130, y: 41}
+        - {x: -129, y: 37}
+        - {x: -91, y: -65}
+        - {x: 8, y: -65}
+        - {x: 132, y: -38}
+        - {x: 132, y: 2}
+        - {x: 76, y: -1}
+      - - {x: 21, y: 6}
+        - {x: 17, y: 3}
+        - {x: 17, y: -4}
+        - {x: 27, y: -4}
+        - {x: 28, y: -1}
+        - {x: 28, y: 2}
+        - {x: 26, y: 4}
+    - name: hoairear6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 571
+        width: 265
+        height: 145
+      alignment: 9
+      pivot: {x: 0.50566036, y: 0.47586206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -28}
+        - {x: -34, y: -33}
+        - {x: -15, y: -46}
+        - {x: 21, y: -44}
+        - {x: 127, y: -23}
+        - {x: 131, y: -20}
+        - {x: 131, y: 19}
+        - {x: -39, y: 66}
+        - {x: -133, y: 66}
+        - {x: -134, y: 62}
+        - {x: -134, y: 29}
+        - {x: -82, y: -68}
+        - {x: -76, y: -69}
+        - {x: -29, y: -69}
+        - {x: -18, y: -49}
+        - {x: -32, y: -35}
+        - {x: -40, y: -32}
+      - - {x: 21, y: 0}
+        - {x: 18, y: -3}
+        - {x: 17, y: -7}
+        - {x: 19, y: -9}
+        - {x: 24, y: -9}
+        - {x: 27, y: -6}
+        - {x: 27, y: -4}
+        - {x: 25, y: -1}
+    - name: horwalk1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 522
+        width: 232
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5301724, y: 0.52835053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -94.5}
+        - {x: 109, y: -29.5}
+        - {x: 109, y: 63.5}
+        - {x: 101, y: 88.5}
+        - {x: 86, y: 91.5}
+        - {x: -97, y: 91.5}
+        - {x: -123, y: 52.5}
+        - {x: -123, y: -102.5}
+        - {x: 29, y: -102.5}
+        - {x: 25, y: -93.5}
+        - {x: 23, y: -88.5}
+        - {x: 44, y: -97.5}
+    - name: horwalk2
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 526
+        width: 218
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5342105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99, y: 85.5}
+        - {x: 33, y: 88.5}
+        - {x: -96, y: 88.5}
+        - {x: -109, y: 84.5}
+        - {x: -109, y: -62.5}
+        - {x: -94, y: -57.5}
+        - {x: -86, y: -50.5}
+        - {x: -82, y: -44.5}
+        - {x: -81, y: -41.5}
+        - {x: -80, y: -33.5}
+        - {x: -89, y: -9.5}
+        - {x: -80, y: -26.5}
+        - {x: -80, y: -49.5}
+        - {x: -71, y: -61.5}
+        - {x: -64, y: -65.5}
+        - {x: -54, y: -66.5}
+        - {x: -51, y: -59.5}
+        - {x: -54, y: -49.5}
+        - {x: -43, y: -73.5}
+        - {x: -28, y: -100.5}
+        - {x: -23, y: -101.5}
+        - {x: 75, y: -101.5}
+        - {x: 109, y: -6.5}
+        - {x: 109, y: 52.5}
+        - {x: 106, y: 75.5}
+    - name: horwalk3
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 533
+        width: 212
+        height: 183
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.5273224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104, y: 86.5}
+        - {x: -104, y: -79.5}
+        - {x: -67, y: -96.5}
+        - {x: 54, y: -96.5}
+        - {x: 83, y: -13.5}
+        - {x: 108, y: -5.5}
+        - {x: 108, y: 86.5}
+    - name: horwalk4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 333
+        width: 206
+        height: 187
+      alignment: 9
+      pivot: {x: 0.46601942, y: 0.53208554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: -35.5}
+        - {x: -71, y: -85.5}
+        - {x: -53, y: -95.5}
+        - {x: -46, y: -96.5}
+        - {x: -45, y: -99.5}
+        - {x: 69, y: -99.5}
+        - {x: 110, y: -67.5}
+        - {x: 110, y: 77.5}
+        - {x: 103, y: 87.5}
+        - {x: -92, y: 87.5}
+        - {x: -96, y: 86.5}
+    - name: horwalk5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 316
+        width: 214
+        height: 204
+      alignment: 9
+      pivot: {x: 0.4906542, y: 0.5563725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105, y: 90.5}
+        - {x: -105, y: -76.5}
+        - {x: -86, y: -78.5}
+        - {x: -68, y: -77.5}
+        - {x: 25, y: -96.5}
+        - {x: 28, y: -86.5}
+        - {x: 28, y: -81.5}
+        - {x: 27, y: -76.5}
+        - {x: 26, y: -73.5}
+        - {x: 28, y: -77.5}
+        - {x: 28, y: -106.5}
+        - {x: 33, y: -113.5}
+        - {x: 51, y: -113.5}
+        - {x: 96, y: -61.5}
+        - {x: 109, y: -15.5}
+        - {x: 109, y: 90.5}
+    - name: horwalk6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 323
+        width: 225
+        height: 197
+      alignment: 9
+      pivot: {x: 0.52, y: 0.5406091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -117, y: -66.5}
+        - {x: -104, y: -90.5}
+        - {x: -92, y: -70.5}
+        - {x: -63, y: -106.5}
+        - {x: 36, y: -106.5}
+        - {x: 108, y: -18.5}
+        - {x: 108, y: 75.5}
+        - {x: 104, y: 88.5}
+        - {x: 90, y: 90.5}
+        - {x: -99, y: 90.5}
+        - {x: -117, y: 63.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

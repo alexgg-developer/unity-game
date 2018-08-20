@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: 7d55b7ad708253b4fa74981053d2df87
+timeCreated: 1458193662
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: walk0001
+    21300002: walk0016
+    21300004: walk0002
+    21300006: walk0003
+    21300008: walk0004
+    21300010: walk0005
+    21300012: walk0006
+    21300014: walk0007
+    21300016: walk0008
+    21300018: walk0009
+    21300020: walk0010
+    21300022: walk0011
+    21300024: walk0012
+    21300026: walk0013
+    21300028: walk0014
+    21300030: walk0015
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: walk0001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 851
+        width: 160
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 20.5}
+        - {x: 40, y: 58.5}
+        - {x: 25, y: 66.5}
+        - {x: 5, y: 66.5}
+        - {x: -17, y: 55.5}
+        - {x: -31, y: -37.5}
+        - {x: -31, y: -54.5}
+        - {x: -17, y: -66.5}
+        - {x: -6, y: -61.5}
+        - {x: -8, y: -56.5}
+        - {x: 18, y: -68.5}
+        - {x: 25, y: -68.5}
+        - {x: 31, y: -66.5}
+        - {x: 36, y: -59.5}
+        - {x: 36, y: -55.5}
+        - {x: 32, y: -37.5}
+      - - {x: -22, y: 7.5}
+        - {x: -21, y: 4.5}
+        - {x: -18, y: 4.5}
+        - {x: -16, y: 6.5}
+        - {x: -17, y: 9.5}
+        - {x: -20, y: 9.5}
+    - name: walk0016
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 851
+        width: 160
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 20.5}
+        - {x: 40, y: 58.5}
+        - {x: 25, y: 66.5}
+        - {x: 5, y: 66.5}
+        - {x: -17, y: 55.5}
+        - {x: -31, y: -37.5}
+        - {x: -31, y: -54.5}
+        - {x: -17, y: -66.5}
+        - {x: -6, y: -61.5}
+        - {x: -8, y: -56.5}
+        - {x: 18, y: -68.5}
+        - {x: 25, y: -68.5}
+        - {x: 31, y: -66.5}
+        - {x: 36, y: -59.5}
+        - {x: 36, y: -55.5}
+        - {x: 32, y: -37.5}
+      - - {x: -22, y: 7.5}
+        - {x: -21, y: 4.5}
+        - {x: -18, y: 4.5}
+        - {x: -16, y: 6.5}
+        - {x: -17, y: 9.5}
+        - {x: -20, y: 9.5}
+    - name: walk0002
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 851
+        width: 160
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 66.5}
+        - {x: 3, y: 66.5}
+        - {x: -20, y: 56.5}
+        - {x: -25, y: 5.5}
+        - {x: -25, y: -60.5}
+        - {x: -10, y: -69.5}
+        - {x: 25, y: -69.5}
+        - {x: 33, y: -54.5}
+        - {x: 40, y: 29.5}
+        - {x: 40, y: 55.5}
+      - - {x: -22, y: 7.5}
+        - {x: -21, y: 4.5}
+        - {x: -18, y: 4.5}
+        - {x: -16, y: 6.5}
+        - {x: -17, y: 9.5}
+        - {x: -20, y: 9.5}
+    - name: walk0003
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 851
+        width: 160
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 57.5}
+        - {x: 32, y: 66.5}
+        - {x: -4, y: 66.5}
+        - {x: -20, y: 52.5}
+        - {x: -20, y: -61.5}
+        - {x: -16, y: -64.5}
+        - {x: 6, y: -69.5}
+        - {x: 15, y: -69.5}
+        - {x: 24, y: -64.5}
+        - {x: 25, y: -58.5}
+        - {x: 40, y: 41.5}
+      - - {x: -22, y: 7.5}
+        - {x: -21, y: 4.5}
+        - {x: -18, y: 4.5}
+        - {x: -16, y: 6.5}
+        - {x: -17, y: 9.5}
+        - {x: -20, y: 9.5}
+    - name: walk0004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 678
+        width: 160
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 66.5}
+        - {x: -17, y: 55.5}
+        - {x: -20, y: 2.5}
+        - {x: -20, y: -5.5}
+        - {x: -16, y: -39.5}
+        - {x: -13, y: -67.5}
+        - {x: -3, y: -69.5}
+        - {x: 22, y: -69.5}
+        - {x: 40, y: -65.5}
+        - {x: 40, y: 63.5}
+        - {x: 39, y: 66.5}
+      - - {x: -22, y: 7.5}
+        - {x: -21, y: 4.5}
+        - {x: -18, y: 4.5}
+        - {x: -16, y: 6.5}
+        - {x: -17, y: 9.5}
+        - {x: -20, y: 9.5}
+    - name: walk0005
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 678
+        width: 160
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 57.5}
+        - {x: 25, y: 66.5}
+        - {x: 6, y: 66.5}
+        - {x: -17, y: 55.5}
+        - {x: -17, y: 32.5}
+        - {x: -20, y: 16.5}
+        - {x: -20, y: -16.5}
+        - {x: -11, y: -63.5}
+        - {x: -9, y: -68.5}
+        - {x: 2, y: -68.5}
+        - {x: 15, y: -66.5}
+        - {x: 20, y: -63.5}
+        - {x: 24, y: -21.5}
+        - {x: 40, y: 41.5}
+      - - {x: -22, y: 7.5}
+        - {x: -21, y: 4.5}
+        - {x: -18, y: 4.5}
+        - {x: -16, y: 6.5}
+        - {x: -17, y: 9.5}
+        - {x: -20, y: 9.5}
+    - name: walk0006
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 678
+        width: 160
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 66.5}
+        - {x: 4, y: 66.5}
+        - {x: -20, y: 57.5}
+        - {x: -20, y: -66.5}
+        - {x: -18, y: -67.5}
+        - {x: 20, y: -67.5}
+        - {x: 30, y: -65.5}
+        - {x: 40, y: 34.5}
+        - {x: 40, y: 55.5}
+      - - {x: -22, y: 7.5}
+        - {x: -21, y: 4.5}
+        - {x: -18, y: 4.5}
+        - {x: -16, y: 6.5}
+        - {x: -17, y: 9.5}
+        - {x: -20, y: 9.5}
+    - name: walk0007
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 505
+        width: 160
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 66.5}
+        - {x: -25, y: 45.5}
+        - {x: -25, y: -65.5}
+        - {x: 40, y: -65.5}
+        - {x: 40, y: 66.5}
+      - - {x: -22, y: 7.5}
+        - {x: -21, y: 4.5}
+        - {x: -18, y: 4.5}
+        - {x: -16, y: 6.5}
+        - {x: -17, y: 9.5}
+        - {x: -20, y: 9.5}
+    - name: walk0008
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 505
+        width: 160
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 66.5}
+        - {x: 3, y: 64.5}
+        - {x: -17, y: 55.5}
+        - {x: -31, y: -21.5}
+        - {x: -31, y: -61.5}
+        - {x: -30, y: -63.5}
+        - {x: 40, y: -63.5}
+        - {x: 40, y: 62.5}
+        - {x: 24, y: 66.5}
+      - - {x: -22, y: 7.5}
+        - {x: -21, y: 4.5}
+        - {x: -18, y: 4.5}
+        - {x: -16, y: 6.5}
+        - {x: -17, y: 9.5}
+        - {x: -20, y: 9.5}
+    - name: walk0009
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 505
+        width: 160
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 66.5}
+        - {x: -17, y: 55.5}
+        - {x: -26, y: -41.5}
+        - {x: -26, y: -59.5}
+        - {x: -22, y: -64.5}
+        - {x: 40, y: -64.5}
+        - {x: 40, y: 66.5}
+      - - {x: -22, y: 7.5}
+        - {x: -21, y: 4.5}
+        - {x: -18, y: 4.5}
+        - {x: -16, y: 6.5}
+        - {x: -17, y: 9.5}
+        - {x: -20, y: 9.5}
+    - name: walk0010
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 332
+        width: 160
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 66.5}
+        - {x: -20, y: 64.5}
+        - {x: -20, y: -66.5}
+        - {x: 28, y: -66.5}
+        - {x: 40, y: 22.5}
+        - {x: 40, y: 58.5}
+        - {x: 25, y: 66.5}
+      - - {x: -22, y: 7.5}
+        - {x: -21, y: 4.5}
+        - {x: -18, y: 4.5}
+        - {x: -16, y: 6.5}
+        - {x: -17, y: 9.5}
+        - {x: -20, y: 9.5}
+    - name: walk0011
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 332
+        width: 160
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 66.5}
+        - {x: -17, y: 55.5}
+        - {x: -20, y: 39.5}
+        - {x: -20, y: -34.5}
+        - {x: -13, y: -68.5}
+        - {x: 17, y: -68.5}
+        - {x: 23, y: -57.5}
+        - {x: 40, y: 25.5}
+        - {x: 40, y: 66.5}
+      - - {x: -22, y: 7.5}
+        - {x: -21, y: 4.5}
+        - {x: -18, y: 4.5}
+        - {x: -16, y: 6.5}
+        - {x: -17, y: 9.5}
+        - {x: -20, y: 9.5}
+    - name: walk0012
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 332
+        width: 160
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 66.5}
+        - {x: -20, y: 50.5}
+        - {x: -20, y: -52.5}
+        - {x: -12, y: -69.5}
+        - {x: 23, y: -69.5}
+        - {x: 40, y: -1.5}
+        - {x: 40, y: 66.5}
+      - - {x: -22, y: 7.5}
+        - {x: -21, y: 4.5}
+        - {x: -18, y: 4.5}
+        - {x: -16, y: 6.5}
+        - {x: -17, y: 9.5}
+        - {x: -20, y: 9.5}
+    - name: walk0013
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 159
+        width: 160
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 66.5}
+        - {x: -17, y: 55.5}
+        - {x: -20, y: 48.5}
+        - {x: -20, y: -56.5}
+        - {x: -14, y: -69.5}
+        - {x: 22, y: -69.5}
+        - {x: 25, y: -64.5}
+        - {x: 40, y: 26.5}
+        - {x: 40, y: 58.5}
+        - {x: 25, y: 66.5}
+      - - {x: -22, y: 7.5}
+        - {x: -21, y: 4.5}
+        - {x: -18, y: 4.5}
+        - {x: -16, y: 6.5}
+        - {x: -17, y: 9.5}
+        - {x: -20, y: 9.5}
+    - name: walk0014
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 159
+        width: 160
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 66.5}
+        - {x: -17, y: 55.5}
+        - {x: -20, y: -3.5}
+        - {x: -21, y: -7.5}
+        - {x: -21, y: -60.5}
+        - {x: -11, y: -69.5}
+        - {x: -4, y: -69.5}
+        - {x: 3, y: -62.5}
+        - {x: 3, y: -58.5}
+        - {x: 3, y: -63.5}
+        - {x: 7, y: -69.5}
+        - {x: 25, y: -69.5}
+        - {x: 40, y: -12.5}
+        - {x: 40, y: 66.5}
+      - - {x: -22, y: 7.5}
+        - {x: -21, y: 4.5}
+        - {x: -18, y: 4.5}
+        - {x: -16, y: 6.5}
+        - {x: -17, y: 9.5}
+        - {x: -20, y: 9.5}
+    - name: walk0015
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 159
+        width: 160
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 66.5}
+        - {x: -19, y: 56.5}
+        - {x: -26, y: -2.5}
+        - {x: -26, y: -62.5}
+        - {x: -21, y: -69.5}
+        - {x: 30, y: -69.5}
+        - {x: 34, y: -65.5}
+        - {x: 40, y: 0.5}
+        - {x: 40, y: 58.5}
+        - {x: 25, y: 66.5}
+      - - {x: -22, y: 7.5}
+        - {x: -21, y: 4.5}
+        - {x: -18, y: 4.5}
+        - {x: -16, y: 6.5}
+        - {x: -17, y: 9.5}
+        - {x: -20, y: 9.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

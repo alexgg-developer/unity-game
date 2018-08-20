@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: foc.png (512 x 512)
+# $TexturePacker:SmartUpdate:3a49d80e53a7f2a48b3305d744d0ad30:7d762996a3dc8cac43052e10cbe96317:bd48c4f29083af7fe3e030df04a2e2be$
+#
+
+fire1;2;4;155;152;0.5387096774193548;0.875
+fire2;165;168;158;163;0.5284810126582279;0.8159509202453987
+fire3;2;158;161;173;0.5248447204968945;0.7687861271676301
+fire4;2;333;167;177;0.5359281437125748;0.7570621468926554

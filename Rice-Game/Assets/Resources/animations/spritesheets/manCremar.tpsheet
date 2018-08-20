@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: manCremar.png (256 x 256)
+# $TexturePacker:SmartUpdate:1b1065e8abd1173554caf13b6c85c0ff:86682f349e00605400710d05aeba268d:d08ad020af63c34c2b58fcb035af5503$
+#
+
+01;2;161;63;93;0.6190476190476191;0.4946236559139785
+02;2;66;63;93;0.6190476190476191;0.4946236559139785
+03;132;164;63;90;0.6190476190476191;0.47777777777777775
+04;67;162;63;92;0.6190476190476191;0.48913043478260865

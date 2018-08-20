@@ -1,0 +1,80 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Resources/animations/spritesheets/carroruedas.tpsheet
+- Assets/Resources/animations/spritesheets/airear.tpsheet
+- Assets/Resources/Textures/UI/pet/Petstats.tpsheet
+- Assets/Resources/animations/spritesheets/plantar.tpsheet
+- Assets/Resources/animations/dop/dopanim.tpsheet
+- Assets/Resources/animations/spritesheets/cargarbrotes.tpsheet
+- Assets/Resources/animations/spritesheets/manCremar.tpsheet
+- Assets/Resources/animations/spritesheets/manAbonar.tpsheet
+- Assets/Resources/animations/loading/loading.tpsheet
+- Assets/Resources/animations/spritesheets/horsewalk.tpsheet
+- Assets/Resources/animations/spritesheets/tractor.tpsheet
+- Assets/Resources/animations/spritesheets/foc.tpsheet
+- Assets/Resources/animations/spritesheets/manWalk.tpsheet
+- Assets/Resources/animations/spritesheets/recoger.tpsheet
+- Assets/Resources/animations/spritesheets/manAirear.tpsheet
+- Assets/Resources/animations/common/walkHuman.tpsheet
+- Assets/Resources/animations/spritesheets/enfangar.tpsheet
+- Assets/Resources/animations/spritesheets/tractoreja.tpsheet
+- Assets/Resources/animations/spritesheets/horsestop.tpsheet
+- Assets/Resources/animations/spritesheets/quitar.tpsheet
+- Assets/Resources/animations/spritesheets/recoger_sembrado.tpsheet
+- Assets/Resources/animations/spritesheets/manSegar.tpsheet
+- Assets/Resources/animations/spritesheets/abonar.tpsheet
+- Assets/Resources/animations/spritesheets/cargararroz.tpsheet
+textureFileNames:
+- Assets/Resources/animations/spritesheets/carroruedas.png
+- Assets/Resources/animations/spritesheets/carroruedas.png
+- Assets/Resources/animations/spritesheets/airear.png
+- Assets/Resources/Textures/UI/pet/Petstats.png
+- Assets/Resources/animations/spritesheets/plantar.png
+- Assets/Resources/animations/dop/dopanim.png
+- Assets/Resources/animations/spritesheets/cargarbrotes.png
+- Assets/Resources/animations/spritesheets/manCremar.png
+- Assets/Resources/animations/spritesheets/manAbonar.png
+- Assets/Resources/animations/loading/loading.png
+- Assets/Resources/animations/spritesheets/horsewalk.png
+- Assets/Resources/animations/spritesheets/tractor.png
+- Assets/Resources/animations/spritesheets/foc.png
+- Assets/Resources/animations/spritesheets/manWalk.png
+- Assets/Resources/animations/spritesheets/recoger.png
+- Assets/Resources/animations/spritesheets/manAirear.png
+- Assets/Resources/animations/common/walkHuman.png
+- Assets/Resources/animations/spritesheets/enfangar.png
+- Assets/Resources/animations/spritesheets/tractoreja.png
+- Assets/Resources/animations/spritesheets/horsestop.png
+- Assets/Resources/animations/spritesheets/quitar.png
+- Assets/Resources/animations/spritesheets/recoger_sembrado.png
+- Assets/Resources/animations/spritesheets/manSegar.png
+- Assets/Resources/animations/spritesheets/abonar.png
+- Assets/Resources/animations/spritesheets/cargararroz.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 

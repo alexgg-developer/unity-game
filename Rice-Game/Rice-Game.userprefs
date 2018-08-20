@@ -1,0 +1,46 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TutorialManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\NewGameLostPanelBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\IntroButtonsBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Panel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameSaveData\GameSaveDataManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TutorialManager.cs" Line="66" Column="35" />
+      <File FileName="Assets\Scripts\RiceTerrainTile.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LogicManager.cs" Line="656" Column="2" />
+      <File FileName="Assets\Scripts\TimeManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PhaseManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WorldTerrain.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LoadingBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LockSideMenuBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Dictionary.cs" Line="115" Column="15" />
+      <File FileName="Assets\Scripts\TutorialPanel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Tutorial_Inicial.cs" Line="27" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Rice-Game" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="TutorialManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\development\Rice-Game\Rice-Game\Assets\Scripts\WorldTerrain.cs" line="673" column="1" />
+      <Breakpoint file="D:\development\Rice-Game\Rice-Game\Assets\Scripts\LogicManager.cs" line="83" column="15" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets\Scripts\InvestigationManager.cs" line="251" offsetX="858" offsetY="4000" expression="text" liveUpdate="False" />
+    <Watch file="Assets\Scripts\InvestigationUnlockedPanel.cs" line="40" offsetX="398" offsetY="542" expression="text" liveUpdate="False" />
+    <Watch file="Assets\Scripts\ActionManager.cs" line="253" offsetX="630" offsetY="3987" expression="currentAction" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

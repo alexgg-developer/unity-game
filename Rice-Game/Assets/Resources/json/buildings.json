@@ -1,0 +1,189 @@
+{
+	"CASA":{
+		"info":"HOME_TITLE",
+		"levels":[
+			{
+				"cost" : 1200,
+				"capacity1" : 5,
+				"img":"Textures/buildings/casa"
+			},
+			{
+				"cost" : 2100,
+				"capacity1" : 10,
+				"img":"Textures/buildings/casa"
+			},
+			{
+				"cost" : 4200,
+				"capacity1" : 15,
+				"img":"Textures/buildings/casa"
+			}
+		],
+		"size" : [ 1, 1 ],
+		"description" : "HOME_DESC",
+		"hasActions": false
+	},
+	"ESTABLO":{
+		"info":"STABLE_TITLE",
+		"levels":[
+			{
+				"cost" : 750,
+				"capacity1" : 2,
+				"img":"Textures/buildings/establo"
+			},
+			{
+				"cost" : 1400,
+				"capacity1" : 4,
+				"img":"Textures/buildings/establo"
+			},
+			{
+				"cost" : 2800,
+				"capacity1" : 6,
+				"img":"Textures/buildings/establo"
+			}
+		],
+		"size" : [ 1, 1 ],
+		"description" : "STABLE_DESC",
+		"hasActions": false
+	},
+	"PLANTER":{
+		"info":"PLANTER_TITLE",
+		"levels":[
+			{
+				"cost" : 600,
+				"capacity1" : 2,
+				"img":"Textures/buildings/planter"
+			},
+			{
+				"cost" : 1200,
+				"capacity1" : 4,
+				"img":"Textures/buildings/planter"
+			},
+			{
+				"cost" : 2400,
+				"capacity1" : 6,
+				"img":"Textures/buildings/planter"
+			}
+		],
+		"size" : [ 2, 2 ],
+		"description" : "PLANTER_DESC",
+		"hasActions": false,
+		"states" : {
+			"EMPTY" : "Textures/buildings/planter",
+			"GROWING": "Textures/buildings/planter1",
+			"GROWN": "Textures/buildings/planter2"
+		}
+	},
+	"TRILL":{
+		"info":"TRILL_TITLE",
+		"levels":[	
+			{
+				"cost" : 1000,
+				"capacity1" : 300,
+				"capacity2" : 15,
+				"img":"Textures/buildings/trill0"
+			},
+			{
+				"cost" : 2000,
+				"capacity1" : 400,
+				"capacity2" : 20,
+				"img":"Textures/buildings/trill0"
+			},
+			{
+				"cost" : 4000,
+				"capacity1" : 500,
+				"capacity2" : 25,
+				"img":"Textures/buildings/trill0"
+			}
+		],
+		"size" : [ 1, 1 ],
+		"description" : "TRILL_DESC",
+		"hasActions": true,
+		"states" : {
+			"EMPTY" : "Textures/buildings/trill0",
+			"HALF": "Textures/buildings/trill1",
+			"FULL": "Textures/buildings/trill2"
+		}
+	},
+	"ERA":{
+		"info":"TERRAIN_TITLE",
+		"levels":[
+			{
+				"cost" : 900,
+				"capacity1" : 400,
+				"capacity2" : 20,
+				"img":"Textures/buildings/era0"
+			},
+			{
+				"cost" : 1800,
+				"capacity1" : 500,
+				"capacity2" : 25,
+				"img":"Textures/buildings/era0"
+			},
+			{
+				"cost" : 3600,
+				"capacity1" : 600,
+				"capacity2" : 30,
+				"img":"Textures/buildings/era0"
+			}
+		],
+		"size" : [ 1, 1 ],
+		"description" : "TERRAIN_DESC",
+		"hasActions": true,
+		"states" : {
+			"EMPTY" : "Textures/buildings/era0",
+			"HALF": "Textures/buildings/era1",
+			"FULL": "Textures/buildings/era2"
+		}
+	},
+	"SILO":{
+		"info":"SILO_TITLE",
+		"levels":[
+			{
+				"cost" : 900,
+				"capacity1" : 600,
+				"capacity2" : 8,
+				"img":"Textures/buildings/silo0"
+			},
+			{
+				"cost" : 1800,
+				"capacity1" : 700,
+				"capacity2" : 10,
+				"img":"Textures/buildings/silo0"
+			},
+			{
+				"cost" : 3600,
+				"capacity1" : 800,
+				"capacity2" : 12,
+				"img":"Textures/buildings/silo0"
+			}
+		],
+		"size" : [ 1, 1 ],
+		"description" : "SILO_DESC",
+		"hasActions": true,
+		"states" : {
+			"EMPTY" : "Textures/buildings/silo0",
+			"HALF": "Textures/buildings/silo1",
+			"FULL": "Textures/buildings/silo2"
+		}
+	},
+	"PLANTA":{
+		"info":"INDUSTRIAL_PLANT_TITLE",
+		"levels":[
+			{
+				"cost" : 16000,
+				"capacity1" : 1000,
+				"capacity2" : 15,
+				"img":"Textures/buildings/planta"
+			},
+			{
+				"cost" : 2,
+				"capacity1" : 20000,
+				"capacity2" : 200,
+				"img":"Textures/buildings/planta"
+			}
+		],
+		"size" : [ 2, 2 ],
+		"description" : "INDUSTRIAL_PLANT_DESC",
+		"hasActions": true		
+	}
+}

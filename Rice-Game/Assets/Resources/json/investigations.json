@@ -1,0 +1,224 @@
+{
+    "INVESTIGATIONS": {
+		"INVESTIGATION_0" :
+		{
+			"ID": 0,
+			"NAME": "INVESTIGATION_0_TITLE",
+			"DESCRIPTION": "INVESTIGATION_0_DESC",
+			"IMAGE":"Textures/investigations/caixer",
+			"YEAR": 1860,
+			"REQ": -1,
+			"COST": 880
+		},
+		"INVESTIGATION_1" :
+		{
+			"ID": 1,
+			"NAME": "INVESTIGATION_1_TITLE",
+			"DESCRIPTION": "INVESTIGATION_1_DESC",
+			"IMAGE":"Textures/investigations/rueda",
+			"YEAR": 1860,
+			"REQ": -1,
+			"COST": 1640
+		},
+		"INVESTIGATION_2" :
+		{
+			"ID": 2,
+			"NAME": "INVESTIGATION_2_TITLE",
+			"DESCRIPTION": "INVESTIGATION_2_DESC",
+			"IMAGE":"Textures/investigations/planter",
+			"YEAR": 1860,
+			"REQ": -1,
+			"COST": 1200
+		},
+		"INVESTIGATION_3" :
+		{
+			"ID": 3,
+			"NAME": "INVESTIGATION_3_TITLE",
+			"DESCRIPTION": "INVESTIGATION_3_DESC",
+			"IMAGE":"Textures/investigations/aiguader",
+			"YEAR": 1860,
+			"REQ": -1,
+			"COST": 1640
+		},
+		"INVESTIGATION_4" :
+		{
+			"ID": 4,
+			"NAME": "INVESTIGATION_4_TITLE",
+			"DESCRIPTION": "INVESTIGATION_4_DESC",
+			"IMAGE":"Textures/objects/barqueta",
+			"YEAR": 1860,
+			"REQ": -1,
+			"COST": 2000
+		},
+		"INVESTIGATION_5" :
+		{
+			"ID": 5,
+			"NAME": "INVESTIGATION_5_TITLE",
+			"DESCRIPTION": "INVESTIGATION_5_DESC",
+			"IMAGE":"Textures/buildings/planta",
+			"YEAR": 1975,
+			"REQ": 16,
+			"COST": 4000
+		},
+		"INVESTIGATION_6" :
+		{
+			"ID": 6,
+			"NAME": "INVESTIGATION_6_TITLE",
+			"DESCRIPTION": "INVESTIGATION_6_DESC",
+			"IMAGE":"Textures/decorations/nature05",
+			"YEAR": 1860,
+			"REQ": -1,
+			"COST": 880
+		},
+		"INVESTIGATION_7" :
+		{
+			"ID": 7,
+			"NAME": "INVESTIGATION_7_TITLE",
+			"DESCRIPTION": "INVESTIGATION_7_DESC",
+			"IMAGE":"Textures/investigations/bova",
+			"YEAR": 1860,
+			"REQ": -1,
+			"COST": 800
+		},
+		"INVESTIGATION_8" :
+		{
+			"ID": 8,
+			"NAME": "INVESTIGATION_8_TITLE",
+			"DESCRIPTION": "INVESTIGATION_8_DESC",
+			"IMAGE":"Textures/investigations/DOP",
+			"YEAR": 1997,
+			"REQ": 16,
+			"COST": 4000
+		},
+		"INVESTIGATION_9" :
+		{
+			"ID": 9,
+			"NAME": "INVESTIGATION_9_TITLE",
+			"DESCRIPTION": "INVESTIGATION_9_DESC",
+			"IMAGE":"Textures/investigations/natura",
+			"YEAR": 2000,
+			"REQ": 16,
+			"COST": 2000
+		},
+		"INVESTIGATION_10" :
+		{
+			"ID": 10,
+			"NAME": "INVESTIGATION_10_TITLE",
+			"DESCRIPTION": "INVESTIGATION_10_DESC",
+			"IMAGE":"Textures/investigations/herbicida",
+			"YEAR": 2002,
+			"REQ": 14,
+			"COST": 4000
+		},
+		"INVESTIGATION_11" :
+		{
+			"ID": 11,
+			"NAME": "INVESTIGATION_11_TITLE",
+			"DESCRIPTION": "INVESTIGATION_11_DESC",
+			"IMAGE":"Textures/objects/tractor",
+			"YEAR": 1950,
+			"REQ": -1,
+			"COST": 1500
+		},
+		"INVESTIGATION_13" :
+		{
+			"ID": 13,
+			"NAME": "INVESTIGATION_13_TITLE",
+			"DESCRIPTION": "INVESTIGATION_13_DESC",
+			"IMAGE":"Textures/investigations/fertilizante",
+			"YEAR": 1960,
+			"REQ": 11,
+			"COST": 1200
+		},
+		"INVESTIGATION_14" :
+		{
+			"ID": 14,
+			"NAME": "INVESTIGATION_14_TITLE",
+			"DESCRIPTION": "INVESTIGATION_14_DESC",
+			"IMAGE":"Textures/investigations/herbicida",
+			"YEAR": 1961,
+			"REQ": 11,
+			"COST": 1200
+		},
+		"INVESTIGATION_15" :
+		{
+			"ID": 15,
+			"NAME": "INVESTIGATION_15_TITLE",
+			"DESCRIPTION": "INVESTIGATION_15_DESC",
+			"IMAGE":"Textures/investigations/siembradirecta",
+			"YEAR": 1967,
+			"REQ": 11,
+			"COST": 1400
+		},
+		"INVESTIGATION_16" :
+		{
+			"ID": 16,
+			"NAME": "INVESTIGATION_16_TITLE",
+			"DESCRIPTION": "INVESTIGATION_16_DESC",
+			"IMAGE":"Textures/investigations/cooperativa",
+			"YEAR": 1927,
+			"REQ": -1,
+			"COST": 2500
+		},
+		"INVESTIGATION_17" :
+		{
+			"ID": 17,
+			"NAME": "INVESTIGATION_17_TITLE",
+			"DESCRIPTION": "INVESTIGATION_17_DESC",
+			"IMAGE":"Textures/investigations/natura",
+			"YEAR": 1996,
+			"REQ": 16,
+			"COST": 3000
+		},
+		"INVESTIGATION_18" :
+		{
+			"ID": 18,
+			"NAME": "INVESTIGATION_18_TITLE",
+			"DESCRIPTION": "INVESTIGATION_18_DESC",
+			"IMAGE":"Textures/objects/anivelladoralaser",
+			"YEAR": 1985,
+			"REQ": 11,
+			"COST": 2000
+		},
+		"INVESTIGATION_19" :
+		{
+			"ID": 19,
+			"NAME": "INVESTIGATION_19_TITLE",
+			"DESCRIPTION": "INVESTIGATION_19_DESC",
+			"IMAGE":"Textures/objects/organico",
+			"YEAR": 2001,
+			"REQ": 13,
+			"COST": 4000
+		},
+		"INVESTIGATION_20" :
+		{
+			"ID": 20,
+			"NAME": "INVESTIGATION_20_TITLE",
+			"DESCRIPTION": "INVESTIGATION_20_DESC",
+			"IMAGE":"Textures/objects/ferhomonas",
+			"YEAR": 1990,
+			"REQ": -1,
+			"COST": 3000
+		},
+		"INVESTIGATION_23" :
+		{
+			"ID": 23,
+			"NAME": "INVESTIGATION_23_TITLE",
+			"DESCRIPTION": "INVESTIGATION_23_DESC",
+			"IMAGE":"Textures/objects/segadora1",
+			"YEAR": 1971,
+			"REQ": 11,
+			"COST": 2000
+		},
+		"INVESTIGATION_25" :
+		{
+			"ID": 25,
+			"NAME": "INVESTIGATION_25_TITLE",
+			"DESCRIPTION": "INVESTIGATION_25_DESC",
+			"IMAGE":"Textures/investigations/ratpenat",
+			"YEAR": 1993,
+			"REQ": -1,
+			"COST": 3000
+		}
+    }
+}

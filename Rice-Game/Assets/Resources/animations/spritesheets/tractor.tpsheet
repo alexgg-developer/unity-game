@@ -1,0 +1,27 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: tractor.png (1024 x 2048)
+# $TexturePacker:SmartUpdate:2322e5030ed607b833adb54756ccaf08:1d946358147ad5b783b8eaa320e0eb0d:fede7a98f8a4a674b368de3f54302d83$
+#
+
+CARRY;2;1781;293;265;0.5;0.5
+CARRY0;297;1781;293;265;0.5;0.5
+CARRY1;592;1781;293;265;0.5;0.5
+CARRY2;2;1514;293;265;0.5;0.5
+HERBICIDA1;297;1558;359;221;0.5;0.5
+TRACTOR_0000_4;658;1491;277;288;0.5;0.5
+TRACTOR_0002_2;658;1491;277;288;0.5;0.5
+TRACTOR_0001_3;2;1201;277;288;0.5;0.5
+TRACTOR_0003_1;281;1201;277;288;0.5;0.5
+abono;560;1378;123;111;0.5;0.5
+airear;685;1382;160;107;0.5;0.5
+anivelladora;847;1381;150;108;0.5;0.5
+anivelladoralasersprite;2;1045;150;154;0.5;0.5
+segadora1;154;840;397;359;0.5;0.5
+segadora2;553;840;397;359;0.5;0.5
+segadora3;2;479;397;359;0.5;0.5
+tractorsembrador;401;681;181;157;0.5;0.5

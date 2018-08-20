@@ -1,0 +1,96 @@
+{
+    "PHASES": {
+		"PREWORK_I" :
+		{
+			"NAME": "PHASE_1_TITLE",
+			"DESCRIPTION": "PHASE_1_DESC",
+			"ACTIONS_INFO": 
+			[
+				"DRY_UP",
+				"WEEDING",
+				"MUD_STIRRING"
+			]
+		},
+		"PREWORK_II" :
+		{
+			"NAME": "PHASE_2_TITLE",
+			"DESCRIPTION": "PHASE_2_DESC",
+			"ACTIONS_INFO": 
+			[
+				"LOOSEN_SOIL",
+				"EVEN",
+				"FERTILIZE",
+				"FLOOD_FIELD",
+				"WEEDING",
+				"MUD_STIRRING"
+			]
+		},
+		"SOWING" :
+		{
+			"NAME": "PHASE_3_TITLE",
+			"DESCRIPTION": "PHASE_3_DESC",
+			"ACTIONS_INFO": 
+			[
+				"SOW",
+				"WEEDING",
+				"LOOSEN_SOIL"
+			]
+		},
+		"GERMINATION" :
+		{
+			"NAME": "PHASE_4_TITLE",
+			"DESCRIPTION": "PHASE_4_DESC",
+			"ACTIONS_INFO": 
+			[
+				"APPLY_HERBICIDES",
+				"WEEDING"
+			]
+		},
+		"PLANT" :
+		{
+			"NAME": "PHASE_5_TITLE",
+			"DESCRIPTION": "PHASE_5_DESC",
+			"ACTIONS_INFO": 
+			[
+				"FERTILIZE",
+				"INCREMENT_AND_RENEW_WATER",
+				"PLANT",
+				"WEEDING"
+			]
+		},
+		"HARVEST" :
+		{
+			"NAME": "PHASE_6_TITLE",
+			"DESCRIPTION": "PHASE_6_DESC",
+			"ACTIONS_INFO": 
+			[
+				"REDUCE_WATER_LEVEL",
+				"MOW",
+				"TRANSPORT_HARVEST",
+				"PLANT",
+				"WEEDING"
+			]
+		},
+		"POST_WORK" :
+		{
+			"NAME": "PHASE_7_TITLE",
+			"DESCRIPTION": "PHASE_7_DESC",
+			"ACTIONS_INFO": 
+			[
+				"BURY_LEFTOVERS",
+				"FLOOD_FIELD",
+				"BURN_STUBBLE"
+			]
+		},
+		"NONE" :
+		{
+			"NAME": "PHASE_8_TITLE",
+			"DESCRIPTION": "PHASE_8_DESC",
+			"ACTIONS_INFO": 
+			[
+				"WEEDING",
+				"LOOSEN_SOIL"
+			]
+		}
+    }
+}

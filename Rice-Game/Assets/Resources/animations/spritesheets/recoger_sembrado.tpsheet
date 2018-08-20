@@ -1,0 +1,22 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: recoger_sembrado.png (1024 x 512)
+# $TexturePacker:SmartUpdate:b2b14218f7aab1d5a9395ebc8c84208b:40cb2539c4388d4b48da9ad91573e02e:8538248adf6a90755092581e164af47d$
+#
+
+HRECOGER1;2;430;73;80;0.5;0.5
+HRECOGER2;77;431;75;79;0.5;0.5
+HRECOGER3;154;431;72;79;0.5;0.5
+HRECOGER4;228;429;72;81;0.5;0.5
+HRECOGER5;302;426;76;84;0.5;0.5
+carroarroz1;380;371;314;139;0.4745222929936306;0.525179856115108
+carroarroz2;696;371;314;139;0.4745222929936306;0.525179856115108
+carroarroz3;2;230;314;139;0.4745222929936306;0.525179856115108
+carroarrozfull;318;230;314;139;0.4745222929936306;0.525179856115108
+carrofull1;634;233;287;136;0.5;0.5
+carrofull2;2;92;287;136;0.5;0.5
+carrofull3;291;92;287;136;0.5;0.5

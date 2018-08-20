@@ -1,0 +1,1064 @@
+fileFormatVersion: 2
+guid: 48b001f629972b44ca1fad7bcc2ea3b4
+timeCreated: 1472380236
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: loading00
+    21300002: loading01
+    21300004: loading02
+    21300006: loading03
+    21300008: loading04
+    21300010: loading05
+    21300012: loading06
+    21300014: loading07
+    21300016: loading08
+    21300018: loading09
+    21300020: loading10
+    21300022: loading11
+    21300024: loading12
+    21300026: loading13
+    21300028: loading14
+    21300030: loading15
+    21300032: loading16
+    21300034: loading17
+    21300036: loading18
+    21300038: loading19
+    21300040: loading20
+    21300042: loading21
+    21300044: loading22
+    21300046: loading23
+    21300048: loading24
+    21300050: loading25
+    21300052: loading26
+    21300054: loading27
+    21300056: loading28
+    21300058: loading29
+    21300060: loading30
+    21300062: loading31
+    21300064: loading32
+    21300066: loading33
+    21300068: loading34
+    21300070: loading35
+    21300072: loading36
+    21300074: loading37
+    21300076: loading38
+    21300078: loading39
+    21300080: loading40
+    21300082: loading41
+    21300084: loading42
+    21300086: loading43
+    21300088: loading44
+    21300090: loading45
+    21300092: loading46
+    21300094: loading47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: loading00
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 471
+        width: 91
+        height: 132
+      alignment: 9
+      pivot: {x: 1, y: 0.37121212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 83}
+        - {x: -91, y: 41}
+        - {x: -91, y: -39}
+        - {x: -85, y: -49}
+        - {x: -42, y: -49}
+        - {x: -12, y: -17}
+        - {x: 0, y: 44}
+        - {x: 0, y: 83}
+    - name: loading01
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 671
+        width: 95
+        height: 129
+      alignment: 9
+      pivot: {x: 0.95789474, y: 0.3488372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 84}
+        - {x: -91, y: 44}
+        - {x: -91, y: -29}
+        - {x: -89, y: -37}
+        - {x: -65, y: -45}
+        - {x: -43, y: -45}
+        - {x: 4, y: -16}
+        - {x: 4, y: 84}
+    - name: loading02
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 532
+        width: 105
+        height: 123
+      alignment: 9
+      pivot: {x: 0.8666667, y: 0.29268292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: 87}
+        - {x: -91, y: 48}
+        - {x: -91, y: -36}
+        - {x: 13, y: -36}
+        - {x: 14, y: -31}
+        - {x: 14, y: 87}
+    - name: loading03
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 540
+        width: 115
+        height: 117
+      alignment: 9
+      pivot: {x: 0.79130435, y: 0.23931624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 89}
+        - {x: -47, y: 83}
+        - {x: -67, y: 67}
+        - {x: -71, y: 64}
+        - {x: -89, y: 33}
+        - {x: -90, y: 26}
+        - {x: -91, y: 23}
+        - {x: -91, y: -28}
+        - {x: 0, y: -28}
+        - {x: 24, y: 53}
+        - {x: 24, y: 86}
+        - {x: 16, y: 89}
+    - name: loading04
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 734
+        width: 124
+        height: 109
+      alignment: 9
+      pivot: {x: 0.7258065, y: 0.16513762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 91}
+        - {x: -90, y: 53}
+        - {x: -90, y: 1}
+        - {x: -77, y: -18}
+        - {x: -52, y: -18}
+        - {x: -23, y: -11}
+        - {x: 34, y: 60}
+        - {x: 34, y: 91}
+    - name: loading05
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 670
+        width: 130
+        height: 100
+      alignment: 9
+      pivot: {x: 0.66923076, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 91}
+        - {x: -50, y: 91}
+        - {x: -87, y: 59}
+        - {x: -87, y: 6}
+        - {x: -84, y: -9}
+        - {x: -8, y: -9}
+        - {x: 19, y: 12}
+        - {x: 43, y: 31}
+        - {x: 43, y: 86}
+    - name: loading06
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 772
+        width: 135
+        height: 92
+      alignment: 9
+      pivot: {x: 0.6148148, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 92}
+        - {x: -73, y: 77}
+        - {x: -83, y: 61}
+        - {x: -83, y: 0}
+        - {x: -4, y: 0}
+        - {x: 52, y: 29}
+        - {x: 52, y: 81}
+        - {x: 38, y: 92}
+    - name: loading07
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 855
+        width: 137
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5620438, y: -0.10714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 93}
+        - {x: -70, y: 89}
+        - {x: -77, y: 63}
+        - {x: -77, y: 9}
+        - {x: 36, y: 9}
+        - {x: 59, y: 13}
+        - {x: 60, y: 15}
+        - {x: 60, y: 93}
+    - name: loading08
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 863
+        width: 138
+        height: 81
+      alignment: 9
+      pivot: {x: 0.51449275, y: -0.16049382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 94}
+        - {x: -71, y: 70}
+        - {x: -71, y: 13}
+        - {x: 50, y: 13}
+        - {x: 67, y: 20}
+        - {x: 67, y: 80}
+        - {x: 36, y: 94}
+    - name: loading09
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 943
+        width: 139
+        height: 79
+      alignment: 9
+      pivot: {x: 0.47482014, y: -0.21518987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: 96}
+        - {x: -51, y: 96}
+        - {x: -66, y: 93}
+        - {x: -66, y: 17}
+        - {x: 37, y: 17}
+        - {x: 71, y: 33}
+        - {x: 73, y: 37}
+        - {x: 73, y: 71}
+    - name: loading10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 946
+        width: 140
+        height: 76
+      alignment: 9
+      pivot: {x: 0.43571427, y: -0.2631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 96}
+        - {x: -61, y: 26}
+        - {x: -29, y: 20}
+        - {x: 79, y: 20}
+        - {x: 79, y: 73}
+        - {x: 68, y: 96}
+    - name: loading11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 788
+        width: 137
+        height: 74
+      alignment: 9
+      pivot: {x: 0.3941606, y: -0.27027026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.000004, y: 94}
+        - {x: -54.000004, y: 88}
+        - {x: -54.000004, y: 39}
+        - {x: -52.000004, y: 36}
+        - {x: -16.000004, y: 21}
+        - {x: -5.000004, y: 21}
+        - {x: 19.999996, y: 27}
+        - {x: 23.999996, y: 35}
+        - {x: 11.999996, y: 48}
+        - {x: 3.9999962, y: 50}
+        - {x: 1.9999962, y: 50}
+        - {x: 7.999996, y: 52}
+        - {x: 63.999996, y: 20}
+        - {x: 83, y: 20}
+        - {x: 83, y: 79}
+        - {x: 47.999996, y: 94}
+    - name: loading12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 700
+        width: 135
+        height: 86
+      alignment: 9
+      pivot: {x: 0.35555556, y: -0.11627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 96}
+        - {x: -40, y: 96}
+        - {x: -48, y: 75}
+        - {x: -48, y: 41}
+        - {x: -14, y: 23}
+        - {x: 8, y: 23}
+        - {x: 14, y: 24}
+        - {x: 23, y: 26}
+        - {x: 26, y: 27}
+        - {x: 25, y: 37}
+        - {x: 17, y: 45}
+        - {x: 72, y: 10}
+        - {x: 87, y: 10}
+        - {x: 87, y: 53}
+        - {x: 76, y: 83}
+    - name: loading13
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 845
+        width: 132
+        height: 91
+      alignment: 9
+      pivot: {x: 0.33333334, y: -0.054945055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 96}
+        - {x: -30, y: 96}
+        - {x: -44, y: 79}
+        - {x: -44, y: 40}
+        - {x: -29, y: 5}
+        - {x: 88, y: 5}
+        - {x: 88, y: 65}
+        - {x: 84, y: 83}
+    - name: loading14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 597
+        width: 126
+        height: 101
+      alignment: 9
+      pivot: {x: 0.2857143, y: 0.04950495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 96}
+        - {x: -20, y: 96}
+        - {x: -36, y: 90}
+        - {x: -36, y: 54}
+        - {x: -9, y: 23}
+        - {x: 32, y: 13}
+        - {x: 61, y: -5}
+        - {x: 90, y: -5}
+        - {x: 90, y: 51}
+        - {x: 85, y: 68}
+    - name: loading15
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 557
+        width: 120
+        height: 111
+      alignment: 9
+      pivot: {x: 0.225, y: 0.13513513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 96}
+        - {x: -27, y: 29}
+        - {x: -19, y: 2}
+        - {x: 7, y: -15}
+        - {x: 93, y: -15}
+        - {x: 93, y: 90}
+        - {x: 75, y: 96}
+    - name: loading16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 476
+        width: 114
+        height: 119
+      alignment: 9
+      pivot: {x: 0.15789473, y: 0.20168068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 70}
+        - {x: 65, y: 95}
+        - {x: -18, y: 95}
+        - {x: -18, y: -1}
+        - {x: 35, y: 14}
+        - {x: 39, y: 21}
+        - {x: 38, y: 34}
+        - {x: 71, y: -24}
+        - {x: 85, y: -24}
+        - {x: 90, y: -18}
+        - {x: 92, y: -13}
+        - {x: 96, y: 0}
+    - name: loading17
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 605
+        width: 105
+        height: 127
+      alignment: 9
+      pivot: {x: 0.08571429, y: 0.26771653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 93}
+        - {x: -9, y: 86}
+        - {x: -9, y: 51}
+        - {x: 2, y: 17}
+        - {x: 53, y: -34}
+        - {x: 96, y: -34}
+        - {x: 96, y: 63}
+        - {x: 78, y: 93}
+    - name: loading18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 342
+        width: 95
+        height: 132
+      alignment: 9
+      pivot: {x: -0.010526316, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 90}
+        - {x: 1, y: 88}
+        - {x: 1, y: -3}
+        - {x: 33, y: -42}
+        - {x: 96, y: -42}
+        - {x: 96, y: 61}
+        - {x: 59, y: 90}
+    - name: loading19
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 294
+        width: 88
+        height: 136
+      alignment: 9
+      pivot: {x: -0.11363637, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 85}
+        - {x: 10, y: 82}
+        - {x: 10, y: 30}
+        - {x: 19, y: 15}
+        - {x: 47, y: -51}
+        - {x: 94, y: -51}
+        - {x: 98, y: -36}
+        - {x: 98, y: 63}
+        - {x: 70, y: 85}
+    - name: loading20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 203
+        width: 82
+        height: 137
+      alignment: 9
+      pivot: {x: -0.19512194, y: 0.42335767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 79}
+        - {x: 16, y: -9}
+        - {x: 36, y: -42}
+        - {x: 50, y: -58}
+        - {x: 87, y: -58}
+        - {x: 98, y: -33}
+        - {x: 98, y: 60}
+        - {x: 73, y: 79}
+    - name: loading21
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 781
+        width: 80
+        height: 138
+      alignment: 9
+      pivot: {x: -0.25, y: 0.4710145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 73}
+        - {x: 20, y: 17}
+        - {x: 25, y: 2}
+        - {x: 38, y: -65}
+        - {x: 86, y: -65}
+        - {x: 100, y: -59}
+        - {x: 100, y: 73}
+    - name: loading22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 62
+        width: 76
+        height: 139
+      alignment: 9
+      pivot: {x: -0.31578946, y: 0.51079136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 68}
+        - {x: 24, y: 48}
+        - {x: 24, y: 2}
+        - {x: 34, y: -9}
+        - {x: 39, y: -11}
+        - {x: 44, y: -8}
+        - {x: 49, y: -2}
+        - {x: 51, y: 1}
+        - {x: 34, y: -68}
+        - {x: 35, y: -71}
+        - {x: 72, y: -71}
+        - {x: 83, y: -69}
+        - {x: 100, y: -43}
+        - {x: 100, y: 38}
+        - {x: 91, y: 68}
+    - name: loading23
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 257
+        width: 73
+        height: 139
+      alignment: 9
+      pivot: {x: -0.369863, y: 0.5467626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 55}
+        - {x: 74, y: 63}
+        - {x: 37, y: 63}
+        - {x: 27, y: 45}
+        - {x: 27, y: 2}
+        - {x: 33, y: -13}
+        - {x: 36, y: -14}
+        - {x: 39, y: -14}
+        - {x: 52, y: -6}
+        - {x: 27, y: -57}
+        - {x: 27, y: -71}
+        - {x: 29, y: -76}
+        - {x: 51, y: -76}
+        - {x: 82, y: -64}
+        - {x: 100, y: -38}
+        - {x: 100, y: 39}
+    - name: loading24
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 429
+        width: 80
+        height: 136
+      alignment: 9
+      pivot: {x: -0.25, y: 0.5882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 56}
+        - {x: 20, y: 48}
+        - {x: 20, y: -80}
+        - {x: 79, y: -80}
+        - {x: 100, y: -69}
+        - {x: 100, y: 41}
+        - {x: 88, y: 56}
+    - name: loading25
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 398
+        width: 90
+        height: 132
+      alignment: 9
+      pivot: {x: -0.11111111, y: 0.6287879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: 49}
+        - {x: 18, y: 10}
+        - {x: 10, y: -29}
+        - {x: 10, y: -83}
+        - {x: 62, y: -83}
+        - {x: 100, y: -57}
+        - {x: 100, y: 31}
+        - {x: 75, y: 49}
+    - name: loading26
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 650
+        width: 94
+        height: 129
+      alignment: 9
+      pivot: {x: -0.06382979, y: 0.6511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 45}
+        - {x: 27, y: 11}
+        - {x: 6, y: -54}
+        - {x: 6, y: -84}
+        - {x: 75, y: -84}
+        - {x: 92, y: -80}
+        - {x: 100, y: -32}
+        - {x: 100, y: 35}
+        - {x: 91, y: 45}
+    - name: loading27
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 432
+        width: 104
+        height: 123
+      alignment: 9
+      pivot: {x: 0.03846154, y: 0.70731705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 36}
+        - {x: 2, y: 19}
+        - {x: -4, y: -38}
+        - {x: -4, y: -87}
+        - {x: 72, y: -87}
+        - {x: 100, y: -73}
+        - {x: 100, y: 20}
+        - {x: 94, y: 36}
+    - name: loading28
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 802
+        width: 114
+        height: 117
+      alignment: 9
+      pivot: {x: 0.12280702, y: 0.7606838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 28}
+        - {x: 26, y: 20}
+        - {x: -14, y: -31}
+        - {x: -14, y: -89}
+        - {x: 64, y: -89}
+        - {x: 100, y: -50}
+        - {x: 100, y: 18}
+        - {x: 97, y: 28}
+    - name: loading29
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 825
+        width: 124
+        height: 110
+      alignment: 9
+      pivot: {x: 0.19354838, y: 0.8272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 19}
+        - {x: -24, y: -40}
+        - {x: -24, y: -91}
+        - {x: 60, y: -91}
+        - {x: 100, y: -42}
+        - {x: 100, y: 19}
+    - name: loading30
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 659
+        width: 130
+        height: 100
+      alignment: 9
+      pivot: {x: 0.25384617, y: 0.91}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 9}
+        - {x: -33, y: -13}
+        - {x: -33, y: -86}
+        - {x: -29, y: -91}
+        - {x: 59, y: -91}
+        - {x: 97, y: -78}
+        - {x: 97, y: 9}
+    - name: loading31
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 761
+        width: 135
+        height: 92
+      alignment: 9
+      pivot: {x: 0.31111112, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 0}
+        - {x: -42, y: -52}
+        - {x: -42, y: -91}
+        - {x: -41, y: -92}
+        - {x: 52, y: -92}
+        - {x: 93, y: -77}
+        - {x: 93, y: -13}
+        - {x: 87, y: 0}
+    - name: loading32
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 938
+        width: 138
+        height: 84
+      alignment: 9
+      pivot: {x: 0.36231884, y: 1.1071428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -9}
+        - {x: 5, y: -31}
+        - {x: 10, y: -42}
+        - {x: 20, y: -44}
+        - {x: -50, y: -46}
+        - {x: -50, y: -68}
+        - {x: -29, y: -93}
+        - {x: 53, y: -93}
+        - {x: 88, y: -59}
+        - {x: 88, y: -9}
+    - name: loading33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 941
+        width: 139
+        height: 81
+      alignment: 9
+      pivot: {x: 0.41007194, y: 1.1604939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -13}
+        - {x: -57, y: -38}
+        - {x: -57, y: -74}
+        - {x: -51, y: -94}
+        - {x: 82, y: -94}
+        - {x: 82, y: -13}
+    - name: loading34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 864
+        width: 139
+        height: 80
+      alignment: 9
+      pivot: {x: 0.4532374, y: 1.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: -28}
+        - {x: 37, y: -16}
+        - {x: 20, y: -16}
+        - {x: -4, y: -30}
+        - {x: -4, y: -36}
+        - {x: -62, y: -29}
+        - {x: -63, y: -30}
+        - {x: -63, y: -74}
+        - {x: -42, y: -96}
+        - {x: 42, y: -96}
+        - {x: 75, y: -85}
+        - {x: 76, y: -81}
+        - {x: 76, y: -24}
+        - {x: 73, y: -22}
+    - name: loading35
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 946
+        width: 139
+        height: 76
+      alignment: 9
+      pivot: {x: 0.48920864, y: 1.2631578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71, y: -30}
+        - {x: 52, y: -20}
+        - {x: 13, y: -20}
+        - {x: -9, y: -31}
+        - {x: -6, y: -39}
+        - {x: 1, y: -44}
+        - {x: -57, y: -24}
+        - {x: -68, y: -27}
+        - {x: -68, y: -50}
+        - {x: -61, y: -71}
+        - {x: -30, y: -91}
+        - {x: -10, y: -96}
+        - {x: 40, y: -96}
+        - {x: 67, y: -78}
+        - {x: 71, y: -65}
+    - name: loading36
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 866
+        width: 138
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5289855, y: 1.2666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: -20}
+        - {x: -73, y: -84}
+        - {x: -44, y: -95}
+        - {x: 52, y: -95}
+        - {x: 55, y: -92}
+        - {x: 65, y: -71}
+        - {x: 65, y: -20}
+    - name: loading37
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 937
+        width: 135
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5703704, y: 1.1294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: -12}
+        - {x: -14, y: -25}
+        - {x: -17, y: -33}
+        - {x: -13, y: -39}
+        - {x: -4, y: -47}
+        - {x: -2, y: -49}
+        - {x: -61, y: -11}
+        - {x: -76, y: -11}
+        - {x: -77, y: -12}
+        - {x: -77, y: -44}
+        - {x: -76, y: -50}
+        - {x: -60, y: -92}
+        - {x: -39, y: -96}
+        - {x: 58, y: -96}
+        - {x: 58, y: -41}
+        - {x: 39, y: -29}
+    - name: loading38
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 771
+        width: 132
+        height: 90
+      alignment: 9
+      pivot: {x: 0.59090906, y: 1.0666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78, y: -6}
+        - {x: -78, y: -55}
+        - {x: -72, y: -94}
+        - {x: -61, y: -96}
+        - {x: 54, y: -96}
+        - {x: 54, y: -26}
+        - {x: 33, y: -6}
+    - name: loading39
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 921
+        width: 125
+        height: 101
+      alignment: 9
+      pivot: {x: 0.64, y: 0.95049506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 5}
+        - {x: -80, y: 5}
+        - {x: -80, y: -82}
+        - {x: -41, y: -96}
+        - {x: 45, y: -96}
+        - {x: 45, y: -29}
+        - {x: 39, y: -17}
+    - name: loading40
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 657
+        width: 120
+        height: 112
+      alignment: 9
+      pivot: {x: 0.7, y: 0.85714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: 16}
+        - {x: -84, y: -55}
+        - {x: -83, y: -61}
+        - {x: -40, y: -96}
+        - {x: 16, y: -96}
+        - {x: 36, y: -87}
+        - {x: 36, y: -56}
+        - {x: 16, y: -23}
+        - {x: -46, y: 16}
+    - name: loading41
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 702
+        width: 112
+        height: 121
+      alignment: 9
+      pivot: {x: 0.76785713, y: 0.78512394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86, y: 26}
+        - {x: -86, y: -57}
+        - {x: -65, y: -95}
+        - {x: 11, y: -95}
+        - {x: 26, y: -88}
+        - {x: 26, y: -18}
+        - {x: -55, y: 26}
+    - name: loading42
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 409
+        width: 102
+        height: 129
+      alignment: 9
+      pivot: {x: 0.84313726, y: 0.7209302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86, y: 36}
+        - {x: -86, y: -77}
+        - {x: -48, y: -93}
+        - {x: -3, y: -93}
+        - {x: 16, y: -84}
+        - {x: 16, y: -36}
+        - {x: -31, y: 36}
+    - name: loading43
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 567
+        width: 93
+        height: 133
+      alignment: 9
+      pivot: {x: 0.9354839, y: 0.6616541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77, y: 45}
+        - {x: -87, y: 27}
+        - {x: -87, y: -49}
+        - {x: -82, y: -59}
+        - {x: -45, y: -88}
+        - {x: -1, y: -88}
+        - {x: 6, y: -87}
+        - {x: 6, y: -3}
+        - {x: -29, y: 45}
+    - name: loading44
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 270
+        width: 84
+        height: 137
+      alignment: 9
+      pivot: {x: 1.0476191, y: 0.60583943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: 54}
+        - {x: -88, y: 35}
+        - {x: -88, y: -45}
+        - {x: -56, y: -83}
+        - {x: -4, y: -83}
+        - {x: -4, y: 1}
+        - {x: -25, y: 54}
+    - name: loading45
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 531
+        width: 81
+        height: 138
+      alignment: 9
+      pivot: {x: 1.0987654, y: 0.5507246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 62}
+        - {x: -61, y: 62}
+        - {x: -89, y: 43}
+        - {x: -89, y: -27}
+        - {x: -78, y: -55}
+        - {x: -60, y: -76}
+        - {x: -8, y: -76}
+        - {x: -8, y: 21}
+        - {x: -17, y: 52}
+    - name: loading46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 62
+        width: 79
+        height: 139
+      alignment: 9
+      pivot: {x: 1.1518987, y: 0.50359714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: 69}
+        - {x: -91, y: 66}
+        - {x: -91, y: -61}
+        - {x: -74, y: -67}
+        - {x: -65, y: -70}
+        - {x: -12, y: -70}
+        - {x: -12, y: 69}
+    - name: loading47
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 331
+        width: 75
+        height: 138
+      alignment: 9
+      pivot: {x: 1.2133334, y: 0.46376812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: 74}
+        - {x: -91, y: 33}
+        - {x: -91, y: -61}
+        - {x: -77, y: -64}
+        - {x: -21, y: -64}
+        - {x: -16, y: -48}
+        - {x: -16, y: 74}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

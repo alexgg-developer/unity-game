@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: e61d8148dd0041e4f8e4a1a386e42b88
+timeCreated: 1461918670
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 01
+    21300002: 02
+    21300004: 03
+    21300006: 04
+    21300008: 05
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 168
+        width: 68
+        height: 86
+      alignment: 9
+      pivot: {x: 0.36764705, y: 0.5697674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 37}
+        - {x: -25, y: 28}
+        - {x: -25, y: -48}
+        - {x: -23, y: -49}
+        - {x: 28, y: -49}
+        - {x: 43, y: -30}
+        - {x: 43, y: 37}
+    - name: 02
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 169
+        width: 68
+        height: 85
+      alignment: 9
+      pivot: {x: 0.36764705, y: 0.5647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 37}
+        - {x: -8, y: 37}
+        - {x: -12, y: 34}
+        - {x: -25, y: 19}
+        - {x: -25, y: -2}
+        - {x: -17, y: -48}
+        - {x: 13, y: -48}
+        - {x: 24, y: -46}
+        - {x: 39, y: -38}
+        - {x: 43, y: -25}
+        - {x: 43, y: 29}
+    - name: 03
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 169
+        width: 68
+        height: 85
+      alignment: 9
+      pivot: {x: 0.36764705, y: 0.5647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -48}
+        - {x: 42, y: -38}
+        - {x: 42, y: -23}
+        - {x: 36, y: -21}
+        - {x: 32, y: -20}
+        - {x: 29, y: -23}
+        - {x: 29, y: -29}
+        - {x: 28, y: -24}
+        - {x: 21, y: -17}
+        - {x: 26, y: -13}
+        - {x: 33, y: -7}
+        - {x: 43, y: 9}
+        - {x: 43, y: 37}
+        - {x: -25, y: 37}
+        - {x: -25, y: -36}
+        - {x: -19, y: -48}
+        - {x: 3, y: -48}
+        - {x: 6, y: -44}
+        - {x: 7, y: -41}
+        - {x: 25, y: -48}
+    - name: 04
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 81
+        width: 72
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4027778, y: 0.5647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 37}
+        - {x: -29, y: 30}
+        - {x: -29, y: -48}
+        - {x: 13, y: -48}
+        - {x: 43, y: -8}
+        - {x: 43, y: 32}
+        - {x: 24, y: 37}
+      - - {x: -27, y: -17}
+        - {x: -25, y: -19}
+        - {x: -22, y: -18}
+        - {x: -22, y: -15}
+        - {x: -24, y: -13}
+        - {x: -27, y: -14}
+    - name: 05
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 168
+        width: 68
+        height: 86
+      alignment: 9
+      pivot: {x: 0.36764705, y: 0.5697674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 37}
+        - {x: -25, y: 28}
+        - {x: -25, y: -48}
+        - {x: -23, y: -49}
+        - {x: 28, y: -49}
+        - {x: 43, y: -30}
+        - {x: 43, y: 37}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
